@@ -1,0 +1,17 @@
+{
+  "name": "footballcup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/islo1234/footballcup.git",
+  "author": "islam chakib",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4"
+  },
+  "scripts": {
+    "start": "node src/app.js"
+  }
+}
